@@ -1,6 +1,6 @@
 - 👋 Hi, I’m (Io , eu sou):  @DougVikt
 - 👀 I’m interested in (estou enteressado em) : software development (desenvolvimento de software)
-- 🌱 I’m currently learning (estou aprendendo atualmente) : python , php , java , html , css , msql
+- 🌱 I’m currently learning (estou aprendendo atualmente) : python(main) , php , java , html , css , msql
 - 📫 How to reach me ( meu contato ) : dougvikt@proton.me 
 
 <!---
